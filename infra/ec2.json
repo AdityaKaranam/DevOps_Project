@@ -1,0 +1,4 @@
+{
+	    "AWSTemplateFormatVersion": "2023-08-26",
+	        "Description": "ec2 instance cration file"
+}
